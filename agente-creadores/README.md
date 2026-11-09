@@ -4,6 +4,8 @@ Oliu recibe decenas de propuestas de creadores de contenido al mes y tardaba de 
 
 ![Escenario completo en Make: trigger, búsqueda, clasificación con IA, parseo JSON y router a 6 rutas de borrador](diagrama-make.jpg)
 
+**[▶ Ver demo (3 min, sin audio)](demo.mp4)** — problema real, arquitectura, el fallo encontrado y corregido, los 3 ataques probados y el resultado del escenario de lanzamiento.
+
 ## Arquitectura
 
 ```
