@@ -2,6 +2,8 @@
 
 Oliu recibe decenas de propuestas de creadores de contenido al mes y tardaba de media 26 horas en responder a cada una. Este agente, montado en Make, deja la respuesta preparada en menos de 1 hora — pero **nunca escribe directamente al creador**: solo prepara un borrador o una ficha para que una persona decida.
 
+![Escenario completo en Make: trigger, búsqueda, clasificación con IA, parseo JSON y router a 6 rutas de borrador](diagrama-make.jpg)
+
 ## Arquitectura
 
 ```
